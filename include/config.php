@@ -1,7 +1,6 @@
 <?php
 //Database static
-define('DB_NAME', 'test');
-define('DB_COLLECTION','coltest');
+define('DB_NAME', 'swe_db');
 
 define('INSERT_COL_SUCCESS', 0);
 define('INSERT_COL_FAILED', 1);
